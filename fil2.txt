@@ -1,1 +1,3 @@
 Endret innhold i fil2.txt
+-------------------------
+Ny endring!!
