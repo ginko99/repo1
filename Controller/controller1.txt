@@ -7,3 +7,5 @@ Endring nr. 3
 ############################################### 4
 Endring nr. 4 
 ############################################### 4
+Hm. Denne teksten skal jeg  spare for 
+senere. Jeg kan da stasje filen.
